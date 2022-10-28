@@ -1,2 +1,2 @@
 # Zefir_os
-Операционная система на Rust...
+Operating system in Rust.
